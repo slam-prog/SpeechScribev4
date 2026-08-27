@@ -1,0 +1,17 @@
+# SpeechScribe V4 - Dependencies
+# Authors: NAJIB MOHAMMED AL-AMIR & WALID HASSAN MOHAMMAD AL-MOTAWAKEL
+# AI Assistant: Google AI (Gemini)
+
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+
+# GUI dependencies
+PyQt5>=5.15.0
+
+# Audio format support (ALL formats!)
+pydub>=0.25.0
+
+# Optional: For testing
+# pytest>=7.0.0
+# pytest-cov>=3.0.0

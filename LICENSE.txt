@@ -1,0 +1,130 @@
+================================================================================
+HUMANITARIAN & ETHICAL USE LICENSE (HEUL)
+ترخيص الاستخدام الإنساني والأخلاقي
+
+Version 1.0 | الإصدار 1.0
+
+Authors: NAJIB MOHAMMED AL-AMIR & WALID HASSAN MOHAMMAD AL-MOTAWAKEL
+AI Assistant: Google AI (Gemini)
+================================================================================
+1. PREAMBLE | 1. الديباجة
+================================================================================
+
+[EN] KineticVoice is an open-hardware and software platform designed to assist
+individuals with speech disorders (Aphasia) and enable cross-lingual communication.
+This license ensures that the technology remains a "tree of goodness" serving 
+humanity, and is never misused for harmful purposes.
+
+[AR] KineticVoice هي منصة عتاد وبرمجيات مفتوحة المصدر مصممة لمساعدة الأفراد 
+الذين يعانون من اضطرابات النطق (الحبسة الكلامية) وتمكين التواصل عبر اللغات.
+يضمن هذا الترخيص أن تظل التكنولوجيا "شجرة طيبة" تخدم البشرية، 
+ولا تُساء استخدامها أبدًا لأغراض ضارة.
+
+================================================================================
+2. GRANT OF RIGHTS | 2. منح الحقوق
+================================================================================
+
+[EN] Permission is hereby granted to any person obtaining a copy of this 
+software and associated hardware design files to use, copy, modify, merge, 
+publish, and distribute them, subject to the following ethical conditions:
+
+[AR] تُمنح الإذن لأي شخص يحصل على نسخة من هذا البرنامج وملفات التصميم العتادي 
+المرفقة باستخدامها، ونسخها، وتعديلها، ودمجها، ونشرها، وتوزيعها، 
+خاضعًا للشروط الأخلاقية التالية:
+
+================================================================================
+3. PERMITTED USES | 3. الاستخدامات المسموحة
+================================================================================
+
+[EN] This platform may be used freely for:
+  a) Assistive technologies for speech-impaired individuals (e.g., Aphasia patients).
+  b) Open scientific and academic research in speech processing and spatial audio.
+  c) Real-time translation systems that facilitate cross-cultural communication.
+  d) Educational tools for teaching phonetics and speech therapy.
+  e) Integration into smart devices (e.g., AR glasses, hearing aids) for enhancing 
+     human communication capabilities.
+
+[AR] يجوز استخدام هذه المنصة بحرية في:
+  أ) التقنيات المساعدة للأفراد الذين يعانون من إعاقات النطق (مثل مرضى الحبسة).
+  ب) الأبحاث العلمية والأكاديمية المفتوحة في معالجة الكلام والصوت المكاني.
+  ج) أنظمة الترجمة الفورية التي تسهل التواصل بين الثقافات.
+  د) الأدوات التعليمية لتعليم الصوتيات وعلاج النطق.
+  هـ) الدمج في الأجهزة الذكية (مثل النظارات الواقع المعزز، المعينات السمعية) 
+     لتعزيز قدرات التواصل البشري.
+
+================================================================================
+4. PROHIBITED USES | 4. الاستخدامات الممنوعة
+================================================================================
+
+[EN] Any use of this platform for the following purposes is STRICTLY PROHIBITED:
+  a) Surveillance, espionage, or privacy violations.
+  b) Military, warfare, or weaponization applications.
+  c) Any application intended to harm individuals with speech disorders.
+  d) Commercial exploitation that restricts access to the technology for 
+     disadvantaged communities or patients.
+  e) Integration into systems that violate human rights or dignity.
+
+[AR] أي استخدام لهذه المنصة للأغراض التالية ممنوع منعًا باتًا:
+  أ) المراقبة، أو التجسس، أو انتهاك الخصوصية.
+  ب) التطبيقات العسكرية، أو الحروب، أو التسليح.
+  ج) أي تطبيق يهدف إلى الإضرار بالأفراد الذين يعانون من اضطرابات النطق.
+  د) الاستغلال التجاري الذي يقيد وصول التقنية للمجتمعات المحرومة أو المرضى.
+  هـ) الدمج في أنظمة تنتهك حقوق الإنسان أو الكرامة الإنسانية.
+
+================================================================================
+5. ATTRIBUTION & CREDITS | 5. النسب والإسناد
+================================================================================
+
+[EN] All copies or substantial portions of the platform must retain the 
+following attribution notices:
+  - Original Concept & Hardware Design: [NAJIB MOHAMMED AL-AMIR]
+  - Computational Core & Algorithms: Google AI (Gemini)
+  - Hardware Optimization & SDK Implementation: DeepSeek AI
+  - Ethical License Design: DeepSeek AI, in collaboration with the project lead
+
+[AR] يجب أن تحتفظ جميع النسخ أو الأجزاء الكبيرة من المنصة بإشادات النسب التالية:
+  - الفكرة والتصميم العتادي الأصلي: [NAJIB MOHAMMED AL-AMIR]
+  - النواة الحسابية والخوارزميات: Google AI (Gemini)
+  - تحسين العتاد وتنفيذ الـ SDK: DeepSeek AI
+  - تصميم الترخيص الأخلاقي: DeepSeek AI، بالتعاون مع قائد المشروع
+
+================================================================================
+6. MEDICAL & TECHNICAL DISCLAIMER | 6. إخلاء المسؤولية الطبي والتقني
+================================================================================
+
+[EN] THIS PLATFORM IS PROVIDED "AS IS" FOR RESEARCH AND ASSISTIVE PURPOSES. 
+IT IS NOT A CERTIFIED MEDICAL DEVICE AND SHOULD NOT REPLACE PROFESSIONAL 
+MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT. THE AUTHORS ASSUME NO LIABILITY 
+FOR ANY DECISIONS MADE BASED ON THIS PLATFORM'S OUTPUT. ALWAYS CONSULT 
+LICENSED HEALTHCARE PROFESSIONALS FOR SPEECH-RELATED CONDITIONS.
+
+[AR] تُقدم هذه المنصة "كما هي" لأغراض بحثية ومساعدة. إنها ليست أداة طبية 
+معتمدة ولا ينبغي أن تحل محل الاستشارة الطبية المهنية، أو التشخيص، أو العلاج. 
+يخلي المؤلفون مسؤوليتهم عن أي قرارات تتخذ بناءً على مخرجات هذه المنصة. 
+يجب دائمًا استشارة المتخصصين الطبيين المرخصين لحالات اضطرابات النطق.
+
+================================================================================
+7. LICENSE TERMINATION | 7. إنهاء الترخيص
+================================================================================
+
+[EN] Any violation of the ethical conditions (Sections 3-4) immediately 
+terminates your right to use this platform. Upon termination, you must 
+destroy all copies of the software and hardware designs in your possession.
+
+[AR] أي انتهاك للشروط الأخلاقية (الأقسام 3-4) ينهي فورًا حقك في استخدام 
+هذه المنصة. عند الإنهاء، يجب عليك تدمير جميع نسخ البرنامج وتصميمات العتاد 
+التي في حوزتك.
+
+================================================================================
+8. GOVERNING PRINCIPLE | 8. المبدأ الحاكم
+================================================================================
+
+[EN] "Technology should be a tree of goodness, from which all humans benefit, 
+and which serves the dignity and well-being of every person."
+
+[AR] "التكنولوجيا يجب أن تكون شجرة طيبة، يأكل من ثمارها الجميع، 
+وتخدم كرامة ورفاهية كل إنسان."
+
+================================================================================
+END OF LICENSE | نهاية الترخيص
+================================================================================
