@@ -45,7 +45,41 @@ using cutting-edge signal processing techniques for ultra-fast speed and high ac
 - **SRT Subtitles**
 
 ---
+##🚀 Quick Start
+1. تنزيل المشروع
+قم بتنزيل المستودع من GitHub:
 
+bash
+git clone https://github.com/slam-prog/SpeechScribev4.git
+cd SpeechScribev4
+2. تثبيت المتطلبات
+تأكد أن لديك Python 3.9 أو أحدث، ثم ثبّت المكتبات المطلوبة:
+
+bash
+pip install -r requirements.txt
+3. تشغيل الواجهة الرسومية
+من داخل مجلد المشروع، شغّل الواجهة:
+
+bash
+python gui/app.py
+4. اختيار ملف صوتي
+من الواجهة، اختر أي ملف صوتي (MP3, WAV, M4A...).
+
+حدد اللغة (العربية، الإنجليزية، أو أي لغة أخرى).
+
+اضغط على زر Start Processing لبدء التفريغ.
+
+5. الحصول على النتائج
+النصوص تحفظ تلقائياً بصيغة TXT.
+
+يمكن تصدير النتائج إلى CSV أو SRT/VTT لاستخدامها في الفيديوهات أو التحليل.
+
+✅ ملاحظات
+يعمل المشروع أوفلاين بالكامل، ولا يحتاج إلى تدريب مسبق.
+
+يدعم جميع اللغات بشكل مباشر.
+
+مناسب للتفريغ السريع للمقابلات، المحاضرات، أو الفيديوهات التعليمية.
 ## 📦 Installation
 
 ```bash
